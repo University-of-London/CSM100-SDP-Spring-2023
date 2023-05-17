@@ -5,7 +5,7 @@ The examples, exercises, and coursework files for the Software Design and Progra
 ------
 
 + assignment-related — examples that may assist you with the coursework.
-+ misc — miscellaneous examples that don't really fit elsewhere.
++ misc — miscellaneous examples that don't fit elsewhere.
 + topic[1-10] — the code from that topic and related examples.
 + ...
 

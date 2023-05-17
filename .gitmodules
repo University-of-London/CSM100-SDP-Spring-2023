@@ -1,0 +1,3 @@
+[submodule "topic-05/SOLID"]
+	path = topic-05/SOLID
+	url = https://github.com/mikeknep/SOLID.git
