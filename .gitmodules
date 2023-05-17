@@ -1,3 +1,6 @@
 [submodule "topic-05/SOLID"]
 	path = topic-05/SOLID
 	url = https://github.com/mikeknep/SOLID.git
+[submodule "topic-04/java-core-exercises"]
+	path = topic-04/java-core-exercises
+	url = https://github.com/bobocode-projects/java-core-exercises
