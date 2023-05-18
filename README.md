@@ -1,6 +1,6 @@
 # Example code — Spring 2023
 
-The examples, exercises, and coursework files for the Software Design and Programming module at the University of London for Spring 2023.
+The examples, exercises, and coursework files for the Software Design and Programming module on the MSc Computer Science programme at the University of London.
 
 ------
 
