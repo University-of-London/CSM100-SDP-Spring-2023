@@ -4,6 +4,3 @@
 [submodule "topic-04/java-core-exercises"]
 	path = topic-04/java-core-exercises
 	url = https://github.com/bobocode-projects/java-core-exercises
-[submodule "javafx-examples"]
-	path = javafx-examples
-	url = https://github.com/jjenkov/javafx-examples
