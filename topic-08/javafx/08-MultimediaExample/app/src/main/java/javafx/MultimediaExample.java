@@ -18,9 +18,7 @@ public class MultimediaExample extends Application {
     }
 
     public void start(Stage primaryStage) throws MalformedURLException {
-        System.out.println(MultimediaExample.this.getClass());
         File mediaFile = new File("sample-20s.mp4");
-        System.out.println(mediaFile.getAbsolutePath());
         Media media = new Media(mediaFile.toURI().toURL().toString());
 
         MediaPlayer mediaPlayer = new MediaPlayer(media);

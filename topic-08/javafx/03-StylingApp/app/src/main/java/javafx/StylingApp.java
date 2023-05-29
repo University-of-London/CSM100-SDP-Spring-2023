@@ -10,10 +10,7 @@ public class StylingApp extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        Button button = new Button("Styled Button");
-
-        // Apply a CSS class to the button
-        button.getStyleClass().add("my-button");
+        Button button = new Button("Styled Button"); 
 
         StackPane root = new StackPane();
         root.getChildren().add(button);
@@ -22,6 +19,9 @@ public class StylingApp extends Application {
 
         // Load the CSS file
         scene.getStylesheets().add(getClass().getClassLoader().getResource("styles.css").toExternalForm());
+
+        // Apply a CSS class to the button
+        button.getStyleClass().add("my-button");
 
         primaryStage.setScene(scene);
         primaryStage.setTitle("Styling App");

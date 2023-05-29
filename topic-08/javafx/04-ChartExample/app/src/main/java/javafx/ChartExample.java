@@ -27,7 +27,7 @@ public class ChartExample extends Application {
 
         barChart.getData().add(series);
 
-        Scene scene = new Scene(barChart, 400, 300);
+        Scene scene = new Scene(barChart, 600, 450);
 
         primaryStage.setTitle("Chart Example");
         primaryStage.setScene(scene);

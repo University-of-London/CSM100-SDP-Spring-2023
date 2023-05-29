@@ -18,7 +18,7 @@ public class MyJavaFXApp extends Application {
         root.getChildren().add(label);
 
         // Create a scene
-        Scene scene = new Scene(root, 300, 200);
+        Scene scene = new Scene(root, 500, 400);
 
         // Set the scene on the primary stage
         primaryStage.setScene(scene);
