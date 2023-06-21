@@ -7,3 +7,11 @@
 [submodule "javafx-examples"]
 	path = javafx-examples
 	url = https://github.com/jjenkov/javafx-examples
+[submodule "CSM100-SDP-Spring-2023-di"]
+	path = CSM100-SDP-Spring-2023-di
+	url = https://github.com/University-of-London/CSM100-SDP-Spring-2023-di
+[submodule "topic-03/CSM100-SDP-Spring-2023-di"]
+	path = topic-03/CSM100-SDP-Spring-2023-di
+	url = https://github.com/University-of-London/CSM100-SDP-Spring-2023-di
+[submodule "topic-03/CSM100-SDP-Spring-2023-di/"]
+	url = https://github.com/University-of-London/CSM100-SDP-Spring-2023-di
