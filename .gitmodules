@@ -15,3 +15,6 @@
 	url = https://github.com/University-of-London/CSM100-SDP-Spring-2023-di
 [submodule "topic-03/CSM100-SDP-Spring-2023-di/"]
 	url = https://github.com/University-of-London/CSM100-SDP-Spring-2023-di
+[submodule "manifold-simple-gradle-project"]
+	path = manifold-simple-gradle-project
+	url = https://github.com/manifold-systems/manifold-simple-gradle-project.git
